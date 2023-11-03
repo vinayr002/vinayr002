@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://vinayr002.github.io/Myportfolio/](https://vinayr002.github.io/Myportfolio/)
+- 👨‍💻 All of my projects are available at [Myportfolio/](https://github.com/vinayr002)
 
 - 📫 How to reach me **vinayvinuv002@gmail.com**
 
