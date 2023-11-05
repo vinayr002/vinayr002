@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
+<h1 align="center"><span style="color:white;">Hi 👋, I'm Vinay</span></h1>
+<h3 align="center"><span style="color:white;">A passionate frontend developer from India</span></h3>
+
+
+<img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="coding" width="300" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayr002&label=Profile%20views&color=0e75b6&style=flat" alt="vinayr002" /> </p>
 
+- A recent engineering graduate with a keen interest in web development.
+- Self-taught in web technologies, showcasing a proactive approach to learning and adapting to new challenges.
+ 
 - 🌱 I’m currently learning **Next js**
 
 - 📫 How to reach me **vinayvinuv002@gmail.com**
